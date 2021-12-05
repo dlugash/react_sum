@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,KACE,qBAAsB","file":"main.f942f19b.chunk.css","sourcesContent":["// styles go here\n.Sum {\n  background-color: aqua;\n}\n"]}
